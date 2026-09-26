@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic-settings
+motor
+pinecone
+sentence-transformers
+google-generativeai
+python-jose[cryptography]
+passlib[bcrypt]
+pymongo
+PyPDF2
+pandas
+tqdm
